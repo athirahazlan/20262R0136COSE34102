@@ -51,3 +51,10 @@ System calls allow programs to request services from the operating system.
 - They provide an interface between user programs and the OS.
 - Examples include reading files and creating processes.
 - They switch execution from user mode to kernel mode.
+
+# Interrupts
+Interrupts allow the CPU to respond to events that require attention.
+
+- The CPU temporarily pauses its current task.
+- An interrupt handler processes the event.
+- The CPU resumes execution afterward.
