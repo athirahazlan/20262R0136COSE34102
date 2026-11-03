@@ -37,3 +37,10 @@ Common scheduling algorithms:
 - First Come First Served (FCFS)
 - Shortest Job First (SJF)
 - Round Robin (RR)
+
+# Context Switching
+Context switching allows the CPU to switch between different processes or threads.
+
+- The OS saves the state of the current task.
+- It loads the state of the next task.
+- This allows multiple tasks to share the CPU.
