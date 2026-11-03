@@ -65,3 +65,11 @@ Memory management allows the OS to manage and allocate memory efficiently.
 - Allocates memory to processes.
 - Protects memory between processes.
 - Uses virtual memory to manage memory resources.
+
+# Summary
+This repository summarizes key concepts learned in Operating Systems.
+
+- Process and thread management
+- CPU scheduling and context switching
+- System calls and interrupts
+- Memory management
