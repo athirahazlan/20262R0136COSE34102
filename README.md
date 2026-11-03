@@ -22,3 +22,10 @@ The operating system manages multiple processes by:
 - Allocating resources to processes
 - Scheduling processes for CPU execution
 - Managing process states
+
+# Threads
+A process can contain one or more threads. A thread is the smallest unit of execution within a process.
+
+- Threads share memory and resources within a process.
+- Each thread has its own registers and stack.
+- Threads allow multiple tasks to run concurrently.
