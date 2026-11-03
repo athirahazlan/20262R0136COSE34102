@@ -13,3 +13,12 @@ Some of its main responsibilities include:
 - Memory management
 - CPU scheduling
 - File system management
+
+# Process Management
+A process is a program that is currently running.
+
+The operating system manages multiple processes by:
+- Creating and terminating processes
+- Allocating resources to processes
+- Scheduling processes for CPU execution
+- Managing process states
