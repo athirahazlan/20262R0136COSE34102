@@ -44,3 +44,10 @@ Context switching allows the CPU to switch between different processes or thread
 - The OS saves the state of the current task.
 - It loads the state of the next task.
 - This allows multiple tasks to share the CPU.
+
+# System Calls
+System calls allow programs to request services from the operating system.
+
+- They provide an interface between user programs and the OS.
+- Examples include reading files and creating processes.
+- They switch execution from user mode to kernel mode.
