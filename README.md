@@ -58,3 +58,10 @@ Interrupts allow the CPU to respond to events that require attention.
 - The CPU temporarily pauses its current task.
 - An interrupt handler processes the event.
 - The CPU resumes execution afterward.
+
+# Memory Management
+Memory management allows the OS to manage and allocate memory efficiently.
+
+- Allocates memory to processes.
+- Protects memory between processes.
+- Uses virtual memory to manage memory resources.
