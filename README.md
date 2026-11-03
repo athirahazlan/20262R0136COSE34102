@@ -29,3 +29,11 @@ A process can contain one or more threads. A thread is the smallest unit of exec
 - Threads share memory and resources within a process.
 - Each thread has its own registers and stack.
 - Threads allow multiple tasks to run concurrently.
+
+# CPU Scheduling
+CPU scheduling determines which process or thread gets to use the CPU.
+
+Common scheduling algorithms:
+- First Come First Served (FCFS)
+- Shortest Job First (SJF)
+- Round Robin (RR)
