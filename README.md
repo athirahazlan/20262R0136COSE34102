@@ -1,4 +1,4 @@
-# COSE322 Operating Systems
+# Operating Systems
 
 Korea University | Fall 2026
 
